@@ -17,42 +17,100 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently pursuing an M.S. in Computer Science at ShanghaiTech University under the guidance of Prof. [Qian Wang](https://qianwang.space/). I also completed my Bachelor’s degree in Computer Science at ShanghaiTech University. I have published serveral papers about medical image and computer vision with total <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FAbsterZhu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FAbsterZhu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research is driven by the goal of advancing multimodal healthcare in the foundation model era. Below are my key areas of interest:
+- Application of pre-trained models in medical imaging scenarios.
+- Deep Learning Multimodal Research in Images, Text, and 3D.
+- 3D human body reconstruction and 3D interaction between humans and objects.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE TMI. 
+- *2024.02*: &nbsp;🎉🎉 Two paper accepted by ISBI 2024. 
+
+# 📖 Educations
+<div style="display: flex; align-items:center; padding-top: 10px">
+    <img style="margin-right: 30px" src="images/上科大校徽.png" alt="image" width="90" height="90">
+    <p style="margin:0; flex: 1;">
+        <font size="4"><b>ShanghaiTech University, Shanghai, China</b></font><br>
+        <font size="3">Sept. 2022 - Present</font><br>
+        <font size="3"><i>M.S.</i> in Computer Science</font><br>
+        <font size="3">Supervisor: Prof. <a href="https://qianwang.space/">Qian Wang</a></font>
+    </p>
+</div>
+
+<div style="display: flex; align-items:center; padding-top: 10px">
+    <img style="margin-right: 30px" src="images/上科大校徽.png" alt="image" width="90" height="90">
+    <p style="margin:0; flex: 1;">
+        <font size="4"><b>ShanghaiTech University, Shanghai, China</b></font><br>
+        <font size="3">Sept. 2018 - 2022</font><br>
+        <font size="3"><i>B.E.</i> in Computer Science</font><br>
+    </p>
+</div>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/muc_pipeline_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction](https://arxiv.org/pdf/2403.05055v1.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yitao Zhu\***, Sheng Wang*, Mengjie Xu, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><br>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Introduces a technique for accurately reconstructing 3D human poses and shapes from images captured by uncalibrated cameras.
+- Utilizes pre-trained monocular models to estimate camera positions and employs a distance ranking optimization strategy for precise joint fusion, addressing self-occlusion issues.
+- Deploys a model to reweight human surface for accurate body shape estimation.outputs.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMI</div><img src='images/chatcad+_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chatcad+: Towards a Universal and Reliable Interactive CAD using LLMs](https://arxiv.org/pdf/2305.15964)
+
+Zihao Zhao\*, Sheng Wang\*, Jinchen Gu\*, **Yitao Zhu\***, Lanzhuju Mei, Zixu Zhuang, Zhiming Cui, Qian Wang, Dinggang Shen<sup>+</sup><br>
+
+[**Project**](https://github.com/zhaozh10/ChatCAD) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:u-x6o8ySG0sC'></span></strong> | <img src="https://img.shields.io/github/stars/zhaozh10/ChatCAD?style=social&amp;label=Stars">
+- Integrates medical imaging and a professional knowledge base to enhance the reliability of Large Language Models in healthcare.
+- Trains CLIP models on various medical imaging modalities for disease classification and designs an efficient mechanism to retrieve relevant medical expertise based on user statements.
+- Uses the retrieved information to provide references, improving the trustworthiness of LLM outputs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024 (oral)</div><img src='images/melo_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Melo: Low-rank Adaptation is Better than Fine-tuning for Medical Image Diagnosis](https://arxiv.org/pdf/2311.08236.pdf)
+
+**Yitao Zhu**, Zhenrong Shen, Zihao Zhao, Sheng Wang, Xin Wang, Xiangyu Zhao, Dinggang Shen, Qian Wang<sup>+</sup><br>
+
+[**Project**](https://github.com/JamesQFreeman/LoRA-ViT) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:d1gkVwhDpl0C'></span></strong> | <img src="https://img.shields.io/github/stars/JamesQFreeman/LoRA-ViT?style=social&amp;label=Stars">
+- Transfers natural image pre-trained models to medical image diagnostic tasks using just 0.17% trainable parameters, achieving performance comparable to full model fine-tuning across various medical imaging modalities.
+- Provides rapid task-switching capabilities and reduced memory usage in clinical deployment scenarios.outputs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/doctorglm_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Doctorglm: Fine-tuning Your Chinese Doctor is not a Herculean Task](https://arxiv.org/pdf/2304.01097.pdf)
+
+Honglin Xiong\*, Sheng Wang\*, **Yitao Zhu\***, Zihao Zhao\*, Yuxiao Liu, Linlin Huang, Qian Wang, Dinggang Sheng<sup>+</sup><br>
+
+[**Project**](https://github.com/xionghonglin/DoctorGLM) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:u5HHmVD_uO8C'></span></strong> | <img src="https://img.shields.io/github/stars/xionghonglin/DoctorGLM?style=social&amp;label=Stars">
+- Developed the first Chinese medical dialogue model in China using a subset of Chinese medical dialogues, supplemented with translated high-quality English medical data and Q&A responses generated from Chinese medical textbooks.
+- Employed advanced fine-tuning techniques like LoRA and p-tuning to optimize training strategies, supported by an active open-source community and enriched by over 40,000 pieces of user feedback.outputs.
+</div>
+</div>
+
+- [Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning](https://arxiv.org/pdf/2406.05974), Xin Wang\*, Zhiyun Song\*, **Yitao Zhu**, Sheng Wang, Lichi Zhang, Dinggang Shen, Qian Wang, **ISBI 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.10*, Outstanding individual in social practice of ShanghaiTech University. 
+- *2020.09*, Yangtze River Delta Financial Big Data Application Ability Competition, First Prize.
+- *2022.11*, Academic Scholarships, ShanghaiTech University.
+- *2023.11*, Academic Scholarships, ShanghaiTech University.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Teaching Assistant
+- *2023.3 - 2023.7*, BME2106 Medical Big-Data and Artificial Intelligence, ShanghaiTech University.
