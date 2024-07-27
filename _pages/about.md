@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing an M.S. in Computer Science at ShanghaiTech University under the guidance of Prof. [Qian Wang](https://qianwang.space/). I also completed my Bachelor’s degree in Computer Science at ShanghaiTech University. I have published serveral papers about medical image and computer vision with total <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FAbsterZhu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am currently pursuing an M.S. in Computer Science at ShanghaiTech University under the guidance of Prof. [Qian Wang](https://qianwang.space/). I also completed my Bachelor’s degree in Computer Science at ShanghaiTech University. I have published serveral papers about medical image and computer vision with total <a href='https://scholar.google.com/citations?user=UR1eH9cAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAbsterZhu%2FAbsterZhu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research is driven by the goal of advancing multimodal healthcare in the foundation model era. Below are my key areas of interest:
 - Application of pre-trained models in medical imaging scenarios.
