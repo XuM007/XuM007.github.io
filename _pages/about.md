@@ -71,7 +71,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 Zihao Zhao\*, Sheng Wang\*, Jinchen Gu\*, **Yitao Zhu\***, Lanzhuju Mei, Zixu Zhuang, Zhiming Cui, Qian Wang, Dinggang Shen<sup>+</sup><br>
 
-[**Project**](https://github.com/zhaozh10/ChatCAD) | <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:u-x6o8ySG0sC'></span></strong> | <img src="https://img.shields.io/github/stars/zhaozh10/ChatCAD?style=social&amp;label=Stars">
+[**Project**](https://github.com/zhaozh10/ChatCAD) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:u-x6o8ySG0sC'></span></strong> | <img src="https://img.shields.io/github/stars/zhaozh10/ChatCAD?style=social&amp;label=Stars">
 - Integrates medical imaging and a professional knowledge base to enhance the reliability of Large Language Models in healthcare.
 - Trains CLIP models on various medical imaging modalities for disease classification and designs an efficient mechanism to retrieve relevant medical expertise based on user statements.
 - Uses the retrieved information to provide references, improving the trustworthiness of LLM outputs.
