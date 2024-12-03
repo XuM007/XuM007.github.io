@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image_path = '/Users/abster/workspace/AbsterZhu.github.io/images/muc_pipeline.png'
+image_path = '/Users/abster/workspace/AbsterZhu.github.io/images/mitracker.png'
 # load alpha channel
 img = cv2.imread(image_path)
 
