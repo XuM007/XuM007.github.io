@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing an M.S. in Computer Science at ShanghaiTech University under the guidance of Prof. [Qian Wang](https://qianwang.space/). I also completed my Bachelor’s degree in Computer Science at ShanghaiTech University. I have published serveral papers about medical image and computer vision with total <a href='https://scholar.google.com/citations?user=UR1eH9cAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAbsterZhu%2FAbsterZhu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am currently pursuing an M.S. in Computer Science at ShanghaiTech University under the guidance of Prof. [Qian Wang (王乾)](https://qianwang.space/). I also completed my Bachelor’s degree in Computer Science at ShanghaiTech University. I have published serveral papers about medical image and computer vision with total <a href='https://scholar.google.com/citations?user=UR1eH9cAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAbsterZhu%2FAbsterZhu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research is driven by the goal of advancing multimodal healthcare in the foundation model era. Below are my key areas of interest:
 - Application of pre-trained models in medical imaging scenarios.
@@ -27,7 +27,7 @@ My research is driven by the goal of advancing multimodal healthcare in the foun
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE TMI. 
-- *2024.02*: &nbsp;🎉🎉 Two paper accepted by ISBI 2024. 
+- *2024.02*: &nbsp;🎉🎉 Two papers accepted by ISBI 2024. 
 
 # 📖 Educations
 <div style="display: flex; align-items:center; padding-top: 10px">
@@ -124,9 +124,10 @@ Honglin Xiong\*, Sheng Wang\*, **Yitao Zhu\***, Zihao Zhao\*, Yuxiao Liu, Linlin
 - *2020.09*, Yangtze River Delta Financial Big Data Application Ability Competition, First Prize.
 - *2022.11*, Academic Scholarships, ShanghaiTech University.
 - *2023.11*, Academic Scholarships, ShanghaiTech University.
+- *2024.11*, Academic Scholarships, ShanghaiTech University.
 
 # 💻 Teaching Assistant
 - *2023.3 - 2023.7*, BME2106 Medical Big-Data and Artificial Intelligence, ShanghaiTech University.
 
 # 🌍 Visitors
-<div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5wnxsvkrjsq&amp;m=6&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+<div style="display:inline-block;width:300px;"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ZKonaVTdvqlX8gAHyqzcU1QgAN38-pUmfvVAl0xBuaw'></script></div>
