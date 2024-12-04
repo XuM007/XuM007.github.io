@@ -50,19 +50,6 @@ Below are my research interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MITracker: Multi-View Integration for Visual Object Tracking](https://xum007.github.io/MITracker.github.io/)
-
-**Mengjie Xu\***, Yitao Zhu\*, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang<sup>+</sup><br>
-
-- Introduces MVTrack, a large-scale dataset with 234K frames and precise annotations for 27 object categories, providing a benchmark for class-agnostic multi-view object tracking.
-- Proposes MITracker, a method leveraging BEV-guided 3D feature volumes and spatial-enhanced attention for robust target recovery in multi-view tracking.
-- Demonstrates that MITracker achieves state-of-the-art performance, improving recovery rates from 56.7% to 79.2% on MVTrack dataset.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/muc_pipeline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction](https://arxiv.org/pdf/2403.05055v1.pdf)
 
 Yitao Zhu\*, Sheng Wang*, **Mengjie Xu**, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><br>
