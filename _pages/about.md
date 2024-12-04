@@ -50,7 +50,7 @@ Below are my research interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MITracker: Multi-View Integration for Visual Object Tracking]()
+[MITracker: Multi-View Integration for Visual Object Tracking](https://xum007.github.io/MITracker.github.io/)
 
 **Mengjie Xu\***, Yitao Zhu\*, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang<sup>+</sup><br>
 
