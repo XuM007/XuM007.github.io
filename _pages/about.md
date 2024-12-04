@@ -20,7 +20,7 @@ redirect_from:
 I am currently pursuing an M.S. in Biomedical Engineering at ShanghaiTech University under the guidance of Prof. [Qian Wang (王乾)](https://qianwang.space/). I also completed my Bachelor’s degree in Computer Science at ShanghaiTech University. I have published several papers about computer vision.
 
 Below are my research interests:
-- Visual object Tracking.
+- Visual object tracking.
 - Human-object interaction.
 - Sparse view reconstruction.
 
