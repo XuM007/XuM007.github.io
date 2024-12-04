@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mengjie Xu<br>(2徐梦洁)"
+  name             : "<div style='text-align: center;'>Mengjie Xu<br>(徐梦洁)</div>"
   avatar           : "images/xumengjie.jpg"
   bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
