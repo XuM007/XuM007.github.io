@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mengjie Xu (徐梦洁)"
+title                    : "Mengjie Xu \n\ (徐梦洁)"
 description              : ""
 repository               : "XuM007/XuM007.github.io"
 google_scholar_stats_use_cdn : true
