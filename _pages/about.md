@@ -78,5 +78,3 @@ Yitao Zhu\*, Sheng Wang*, **Mengjie Xu**, Zixu Zhuang, Zhixin Wang, Kaidong Wang
 - *2023.11*, Academic Scholarships, ShanghaiTech University.
 - *2024.11*, Academic Scholarships, ShanghaiTech University.
 
-# 🌍 Visitors
-<div style="display:inline-block;width:300px;"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=ZKonaVTdvqlX8gAHyqzcU1QgAN38-pUmfvVAl0xBuaw'></script></div>
