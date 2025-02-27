@@ -47,7 +47,7 @@ Below are my research interests:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MITracker: Multi-View Integration for Visual Object Tracking]()
@@ -60,7 +60,7 @@ Below are my research interests:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/muc_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/muc_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction](https://arxiv.org/pdf/2403.05055v1.pdf)
