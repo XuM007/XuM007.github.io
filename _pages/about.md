@@ -50,7 +50,7 @@ Below are my research interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MITracker: Multi-View Integration for Visual Object Tracking]()
+[MITracker: Multi-View Integration for Visual Object Tracking](https://export.arxiv.org/pdf/2502.20111)
 
 **Mengjie Xu\***, Yitao Zhu\*, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang<sup>+</sup><br>
 
