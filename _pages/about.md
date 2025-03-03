@@ -49,7 +49,7 @@ Below are my research interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/medlego_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis]()
+<--- [Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis]()
 
 Yitao Zhu, Yuan Yin, Jiaming Li, **Mengjie Xu**, Zihao Zhao, Honglin Xiong, Sheng Wang, Qian Wang<sup>+</sup><br>
 
@@ -57,7 +57,7 @@ Yitao Zhu, Yuan Yin, Jiaming Li, **Mengjie Xu**, Zihao Zhao, Honglin Xiong, Shen
 - SVD-LoRA combines SVD decomposition with Low-Rank Adaptation to capture domain expertise using only 0.18% of full model parameters while mitigating noise.
 - Med-LEGO achieves state-of-the-art performance across multiple medical image datasets and generalizes effectively to new medical tasks.
 </div>
-</div>
+</div> --->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,9 +79,9 @@ Yitao Zhu, Yuan Yin, Jiaming Li, **Mengjie Xu**, Zihao Zhao, Honglin Xiong, Shen
 
 [MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction](https://arxiv.org/pdf/2403.05055v1.pdf)
 
-[**Project**](https://github.com/AbsterZhu/MUC) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:9yKSN-GCB0IC'></span></strong> | <img src="https://img.shields.io/github/stars/AbsterZhu/MUC?style=social&amp;label=Stars">
+Yitao Zhu\*, Sheng Wang*, **Mengjie Xu**, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><be>
 
-Yitao Zhu\*, Sheng Wang*, **Mengjie Xu**, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><br>
+[**Project**](https://github.com/AbsterZhu/MUC) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:9yKSN-GCB0IC'></span></strong> | <img src="https://img.shields.io/github/stars/AbsterZhu/MUC?style=social&amp;label=Stars">
 
 - Introduces a technique for accurately reconstructing 3D human poses and shapes from images captured by uncalibrated cameras.
 - Utilizes pre-trained monocular models to estimate camera positions and employs a distance ranking optimization strategy for precise joint fusion, addressing self-occlusion issues.
