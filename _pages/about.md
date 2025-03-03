@@ -46,6 +46,18 @@ Below are my research interests:
 </div>
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/medlego_new.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Med-LEGO: Editing and Adapting toward Generalist Medical Image Diagnosis]()
+
+Yitao Zhu, Yuan Yin, Jiaming Li, **Mengjie Xu**, Zihao Zhao, Honglin Xiong, Sheng Wang, Qian Wang<sup>+</sup><br>
+
+- Med-LEGO is a training-free framework that integrates specialist models into a generalist medical AI system without requiring original training data.
+- SVD-LoRA combines SVD decomposition with Low-Rank Adaptation to capture domain expertise using only 0.18% of full model parameters while mitigating noise.
+- Med-LEGO achieves state-of-the-art performance across multiple medical image datasets and generalizes effectively to new medical tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mitracker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +65,8 @@ Below are my research interests:
 [MITracker: Multi-View Integration for Visual Object Tracking](https://arxiv.org/pdf/2502.20111)
 
 **Mengjie Xu\***, Yitao Zhu\*, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang<sup>+</sup><br>
+
+[**Project**](https://mii-laboratory.github.io/MITracker/) <img src="https://img.shields.io/github/stars/XuM007/MITracker?style=social&amp;label=Stars">
 
 - Introduces MVTrack, a large-scale dataset with 234K frames and precise annotations for 27 object categories, providing a benchmark for class-agnostic multi-view object tracking.
 - Proposes MITracker, a method leveraging BEV-guided 3D feature volumes and spatial-enhanced attention for robust target recovery in multi-view tracking.
@@ -64,6 +78,8 @@ Below are my research interests:
 <div class='paper-box-text' markdown="1">
 
 [MUC: Mixture of Uncalibrated Cameras for Robust 3D Human Body Reconstruction](https://arxiv.org/pdf/2403.05055v1.pdf)
+
+[**Project**](https://github.com/AbsterZhu/MUC) <strong><span class='show_paper_citations' data='UR1eH9cAAAAJ:9yKSN-GCB0IC'></span></strong> | <img src="https://img.shields.io/github/stars/AbsterZhu/MUC?style=social&amp;label=Stars">
 
 Yitao Zhu\*, Sheng Wang*, **Mengjie Xu**, Zixu Zhuang, Zhixin Wang, Kaidong Wang, Han Zhang, Qian Wang<sup>+</sup><br>
 
